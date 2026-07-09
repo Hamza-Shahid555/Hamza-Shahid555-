@@ -301,8 +301,8 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
+| [Agentic-AI-](https://github.com/Hamza-Shahid555/Agentic-AI-) | 🤖 Agentic AI framework for building autonomous, tool-using agents powered by LLMs. | Jupyter Notebook | 0 | 2026-07-08 |
 | [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-07 |
-| [Agentic-AI-](https://github.com/Hamza-Shahid555/Agentic-AI-) | 🤖 Agentic AI framework for building autonomous, tool-using agents powered by LLMs. | Roff | 0 | 2026-07-07 |
 | [GenAI-using-LangChain-](https://github.com/Hamza-Shahid555/GenAI-using-LangChain-) | we will work on LangChain using in GenAi Generative AI with LangChain means building applications that use Large Language Models (LLMs) like GPT, but in a structured and powerful way.  🔹 What LangChain Does  LangChain acts as a bridge between LLMs and real-world data/tools.  | Python | 0 | 2026-07-06 |
 | [EEG-Based-Epileptic-Seizure-Detection-and-Classification](https://github.com/Hamza-Shahid555/EEG-Based-Epileptic-Seizure-Detection-and-Classification) | This project applies machine learning and deep learning techniques to detect and classify epileptic seizures from EEG (electroencephalogram) signals. Raw EDF (European Data Format) EEG recordings from 6 patients (p10–p15) are preprocessed, segmented, and labeled into seizure types | Jupyter Notebook | 0 | 2026-05-17 |
 | [A-To-Z-PyTorch](https://github.com/Hamza-Shahid555/A-To-Z-PyTorch) | For ML DL and for LLM as well as for GenAI we must required  PyTorch so in this repository we will go deepdown in  PyTorch library a to z | Jupyter Notebook | 0 | 2026-05-01 |
