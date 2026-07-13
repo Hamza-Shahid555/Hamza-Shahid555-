@@ -301,10 +301,11 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
+| [-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit](https://github.com/Hamza-Shahid555/-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit) | # LangGraph Chatbot UI with Streamlit  This project shows how to create a web interface for a LangGraph chatbot using Streamlit. Users can chat with the bot through a simple browser-based interface, and the chatbot remembers previous conversations using Thread IDs. | Python | 0 | 2026-07-12 |
+| [Agentic-AI-](https://github.com/Hamza-Shahid555/Agentic-AI-) | 🤖 Agentic AI framework for building autonomous, tool-using agents powered by LLMs. | Jupyter Notebook | 0 | 2026-07-12 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-12 |
 | [AI-Chatbot-with-Memory-using-LangGraph](https://github.com/Hamza-Shahid555/AI-Chatbot-with-Memory-using-LangGraph) | AI Chatbot with Memory using LangGraph  This project demonstrates how to build a **stateful AI chatbot** using **LangGraph**. Unlike a basic chatbot, this version remembers previous conversations by using **persistence** with a **MemorySaver** checkpointer.  --- | Jupyter Notebook | 1 | 2026-07-11 |
 | [python](https://github.com/Hamza-Shahid555/python) | A TO Z about python | Jupyter Notebook | 1 | 2026-07-11 |
-| [Agentic-AI-](https://github.com/Hamza-Shahid555/Agentic-AI-) | 🤖 Agentic AI framework for building autonomous, tool-using agents powered by LLMs. | Jupyter Notebook | 0 | 2026-07-11 |
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-11 |
 | [CropDoc](https://github.com/Hamza-Shahid555/CropDoc) | — | Jupyter Notebook | 0 | 2026-07-10 |
 | [GenAI-using-LangChain-](https://github.com/Hamza-Shahid555/GenAI-using-LangChain-) | we will work on LangChain using in GenAi Generative AI with LangChain means building applications that use Large Language Models (LLMs) like GPT, but in a structured and powerful way.  🔹 What LangChain Does  LangChain acts as a bridge between LLMs and real-world data/tools.  | Python | 0 | 2026-07-06 |
 | [EEG-Based-Epileptic-Seizure-Detection-and-Classification](https://github.com/Hamza-Shahid555/EEG-Based-Epileptic-Seizure-Detection-and-Classification) | This project applies machine learning and deep learning techniques to detect and classify epileptic seizures from EEG (electroencephalogram) signals. Raw EDF (European Data Format) EEG recordings from 6 patients (p10–p15) are preprocessed, segmented, and labeled into seizure types | Jupyter Notebook | 0 | 2026-05-17 |
