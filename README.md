@@ -301,10 +301,11 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
-| [Agentic-AI-](https://github.com/Hamza-Shahid555/Agentic-AI-) | 🤖 Agentic AI framework for building autonomous, tool-using agents powered by LLMs. | Jupyter Notebook | 0 | 2026-07-13 |
+| [TruthForge-AI](https://github.com/Hamza-Shahid555/TruthForge-AI) | — | HTML | 0 | 2026-07-15 |
+| [Agentic-AI-](https://github.com/Hamza-Shahid555/Agentic-AI-) | 🤖 Agentic AI framework for building autonomous, tool-using agents powered by LLMs. | Jupyter Notebook | 0 | 2026-07-14 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-14 |
 | [CropDoc](https://github.com/Hamza-Shahid555/CropDoc) | — | Jupyter Notebook | 0 | 2026-07-13 |
 | [-LangSmith](https://github.com/Hamza-Shahid555/-LangSmith) | LangSmith is a development, debugging, testing, and monitoring platform for AI applications built with LangChain, LangGraph, or any LLM framework. | Jupyter Notebook | 0 | 2026-07-13 |
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-13 |
 | [-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit](https://github.com/Hamza-Shahid555/-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit) | # LangGraph Chatbot UI with Streamlit  This project shows how to create a web interface for a LangGraph chatbot using Streamlit. Users can chat with the bot through a simple browser-based interface, and the chatbot remembers previous conversations using Thread IDs. | Python | 0 | 2026-07-12 |
 | [AI-Chatbot-with-Memory-using-LangGraph](https://github.com/Hamza-Shahid555/AI-Chatbot-with-Memory-using-LangGraph) | AI Chatbot with Memory using LangGraph  This project demonstrates how to build a **stateful AI chatbot** using **LangGraph**. Unlike a basic chatbot, this version remembers previous conversations by using **persistence** with a **MemorySaver** checkpointer.  --- | Jupyter Notebook | 1 | 2026-07-11 |
 | [python](https://github.com/Hamza-Shahid555/python) | A TO Z about python | Jupyter Notebook | 1 | 2026-07-11 |
