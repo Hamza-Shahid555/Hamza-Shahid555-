@@ -301,9 +301,10 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
+| [LLM](https://github.com/Hamza-Shahid555/LLM) | Building LLM-based applications using tools like RAG, LangChain, or Agents is relatively straightforward. However, evaluating them for production-grade reliability is what separates basic prototypes from professional, enterprise-ready AI engineering. | Roff | 0 | 2026-07-15 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-15 |
 | [TruthForge-AI](https://github.com/Hamza-Shahid555/TruthForge-AI) | — | HTML | 0 | 2026-07-15 |
 | [Agentic-AI-](https://github.com/Hamza-Shahid555/Agentic-AI-) | 🤖 Agentic AI framework for building autonomous, tool-using agents powered by LLMs. | Jupyter Notebook | 0 | 2026-07-14 |
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-14 |
 | [CropDoc](https://github.com/Hamza-Shahid555/CropDoc) | — | Jupyter Notebook | 0 | 2026-07-13 |
 | [-LangSmith](https://github.com/Hamza-Shahid555/-LangSmith) | LangSmith is a development, debugging, testing, and monitoring platform for AI applications built with LangChain, LangGraph, or any LLM framework. | Jupyter Notebook | 0 | 2026-07-13 |
 | [-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit](https://github.com/Hamza-Shahid555/-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit) | # LangGraph Chatbot UI with Streamlit  This project shows how to create a web interface for a LangGraph chatbot using Streamlit. Users can chat with the bot through a simple browser-based interface, and the chatbot remembers previous conversations using Thread IDs. | Python | 0 | 2026-07-12 |
