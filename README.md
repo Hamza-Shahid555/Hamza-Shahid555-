@@ -301,7 +301,8 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-21 |
+| [python](https://github.com/Hamza-Shahid555/python) | A TO Z about python | Jupyter Notebook | 1 | 2026-07-22 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-22 |
 | [Mlops-ML-project](https://github.com/Hamza-Shahid555/Mlops-ML-project) | — | Python | 0 | 2026-07-18 |
 | [LLM](https://github.com/Hamza-Shahid555/LLM) | Building LLM-based applications using tools like RAG, LangChain, or Agents is relatively straightforward. However, evaluating them for production-grade reliability is what separates basic prototypes from professional, enterprise-ready AI engineering. | Roff | 0 | 2026-07-15 |
 | [TruthForge-AI](https://github.com/Hamza-Shahid555/TruthForge-AI) | — | HTML | 0 | 2026-07-15 |
@@ -310,7 +311,6 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 | [-LangSmith](https://github.com/Hamza-Shahid555/-LangSmith) | LangSmith is a development, debugging, testing, and monitoring platform for AI applications built with LangChain, LangGraph, or any LLM framework. | Jupyter Notebook | 0 | 2026-07-13 |
 | [-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit](https://github.com/Hamza-Shahid555/-Building-a-Chatbot-with-UI-in-LangGraph-Streamlit) | # LangGraph Chatbot UI with Streamlit  This project shows how to create a web interface for a LangGraph chatbot using Streamlit. Users can chat with the bot through a simple browser-based interface, and the chatbot remembers previous conversations using Thread IDs. | Python | 0 | 2026-07-12 |
 | [AI-Chatbot-with-Memory-using-LangGraph](https://github.com/Hamza-Shahid555/AI-Chatbot-with-Memory-using-LangGraph) | AI Chatbot with Memory using LangGraph  This project demonstrates how to build a **stateful AI chatbot** using **LangGraph**. Unlike a basic chatbot, this version remembers previous conversations by using **persistence** with a **MemorySaver** checkpointer.  --- | Jupyter Notebook | 1 | 2026-07-11 |
-| [python](https://github.com/Hamza-Shahid555/python) | A TO Z about python | Jupyter Notebook | 1 | 2026-07-11 |
 | [GenAI-using-LangChain-](https://github.com/Hamza-Shahid555/GenAI-using-LangChain-) | we will work on LangChain using in GenAi Generative AI with LangChain means building applications that use Large Language Models (LLMs) like GPT, but in a structured and powerful way.  🔹 What LangChain Does  LangChain acts as a bridge between LLMs and real-world data/tools.  | Python | 0 | 2026-07-06 |
 | [EEG-Based-Epileptic-Seizure-Detection-and-Classification](https://github.com/Hamza-Shahid555/EEG-Based-Epileptic-Seizure-Detection-and-Classification) | This project applies machine learning and deep learning techniques to detect and classify epileptic seizures from EEG (electroencephalogram) signals. Raw EDF (European Data Format) EEG recordings from 6 patients (p10–p15) are preprocessed, segmented, and labeled into seizure types | Jupyter Notebook | 0 | 2026-05-17 |
 | [A-To-Z-PyTorch](https://github.com/Hamza-Shahid555/A-To-Z-PyTorch) | For ML DL and for LLM as well as for GenAI we must required  PyTorch so in this repository we will go deepdown in  PyTorch library a to z | Jupyter Notebook | 0 | 2026-05-01 |
