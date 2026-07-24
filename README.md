@@ -301,8 +301,8 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-23 |
 | [python](https://github.com/Hamza-Shahid555/python) | A TO Z about python | Jupyter Notebook | 1 | 2026-07-22 |
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-07-22 |
 | [Mlops-ML-project](https://github.com/Hamza-Shahid555/Mlops-ML-project) | — | Python | 0 | 2026-07-18 |
 | [LLM](https://github.com/Hamza-Shahid555/LLM) | Building LLM-based applications using tools like RAG, LangChain, or Agents is relatively straightforward. However, evaluating them for production-grade reliability is what separates basic prototypes from professional, enterprise-ready AI engineering. | Roff | 0 | 2026-07-15 |
 | [TruthForge-AI](https://github.com/Hamza-Shahid555/TruthForge-AI) | — | HTML | 0 | 2026-07-15 |
