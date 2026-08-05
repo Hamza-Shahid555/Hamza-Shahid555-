@@ -301,9 +301,10 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
+| [OOP_IN_python](https://github.com/Hamza-Shahid555/OOP_IN_python) | — | Roff | 0 | 2026-08-04 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-08-04 |
 | [freight-rate-prediction](https://github.com/Hamza-Shahid555/freight-rate-prediction) | freight-rate-prediction | Python | 0 | 2026-08-03 |
 | [Hyre](https://github.com/Hamza-Shahid555/Hyre) | Multi-agent AI job search assistant — searches job boards, ranks openings against your CV, and prepares tailored applications. You approve every submission. | Python | 0 | 2026-08-03 |
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-08-03 |
 | [-FastAPI](https://github.com/Hamza-Shahid555/-FastAPI) | **FastAPI** is a modern and high-performance Python framework used to build fast and secure REST APIs. It provides automatic data validation, interactive API documentation, and excellent performance using Python type hints. FastAPI is widely used for AI/ML model deployment, backend development, and microservices. | — | 0 | 2026-07-30 |
 | [CI-CD-pipeline](https://github.com/Hamza-Shahid555/CI-CD-pipeline) | * **CI (Continuous Integration):** When you push code to a GitHub repository, **GitHub Actions** automatically builds and tests your project. * **CD (Continuous Delivery/Deployment):** If all tests pass, the application is automatically prepared and deployed to a server or cloud platform. Flow:Write Code → Push to GitHub → Test → Build → Deploy | — | 0 | 2026-07-30 |
 | [python](https://github.com/Hamza-Shahid555/python) | A TO Z about python | Jupyter Notebook | 1 | 2026-07-22 |
