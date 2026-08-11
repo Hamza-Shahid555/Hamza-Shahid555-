@@ -301,9 +301,9 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-08-09 |
+| [OOP_IN_python](https://github.com/Hamza-Shahid555/OOP_IN_python) | — | Python | 0 | 2026-08-10 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-08-10 |
 | [-Data-Structures-and-Algorithms-using-Python](https://github.com/Hamza-Shahid555/-Data-Structures-and-Algorithms-using-Python) | A comprehensive collection of Data Structures and Algorithms (DSA) implemented in Python with clean code, explanations, and coding practice problems. | — | 0 | 2026-08-06 |
-| [OOP_IN_python](https://github.com/Hamza-Shahid555/OOP_IN_python) | — | Python | 0 | 2026-08-05 |
 | [freight-rate-prediction](https://github.com/Hamza-Shahid555/freight-rate-prediction) | freight-rate-prediction | Python | 0 | 2026-08-03 |
 | [Hyre](https://github.com/Hamza-Shahid555/Hyre) | Multi-agent AI job search assistant — searches job boards, ranks openings against your CV, and prepares tailored applications. You approve every submission. | Python | 0 | 2026-08-03 |
 | [-FastAPI](https://github.com/Hamza-Shahid555/-FastAPI) | **FastAPI** is a modern and high-performance Python framework used to build fast and secure REST APIs. It provides automatic data validation, interactive API documentation, and excellent performance using Python type hints. FastAPI is widely used for AI/ML model deployment, backend development, and microservices. | — | 0 | 2026-07-30 |
