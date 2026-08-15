@@ -301,8 +301,8 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-08-13 |
-| [OOP_IN_python](https://github.com/Hamza-Shahid555/OOP_IN_python) | — | Python | 0 | 2026-08-10 |
+| [OOP_IN_python](https://github.com/Hamza-Shahid555/OOP_IN_python) | — | Python | 0 | 2026-08-14 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-08-14 |
 | [-Data-Structures-and-Algorithms-using-Python](https://github.com/Hamza-Shahid555/-Data-Structures-and-Algorithms-using-Python) | A comprehensive collection of Data Structures and Algorithms (DSA) implemented in Python with clean code, explanations, and coding practice problems. | — | 0 | 2026-08-06 |
 | [freight-rate-prediction](https://github.com/Hamza-Shahid555/freight-rate-prediction) | freight-rate-prediction | Python | 0 | 2026-08-03 |
 | [Hyre](https://github.com/Hamza-Shahid555/Hyre) | Multi-agent AI job search assistant — searches job boards, ranks openings against your CV, and prepares tailored applications. You approve every submission. | Python | 0 | 2026-08-03 |
