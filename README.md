@@ -301,7 +301,7 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-09-01 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-09-02 |
 | [LLM-Evaluations-LLM-Evals](https://github.com/Hamza-Shahid555/LLM-Evaluations-LLM-Evals) | An extended, organized write-up of the CampusX video announcing a new LLM Evaluations (LLM Evals) playlist. It covers why "vibe testing" isn't enough for production AI, three real-world failure case studies (Air Canada, Chevrolet, and a Colombian airline's legal case), how LLM testing differs from traditional deterministic software testing, | — | 0 | 2026-08-27 |
 | [OOP_IN_python](https://github.com/Hamza-Shahid555/OOP_IN_python) | — | Python | 0 | 2026-08-14 |
 | [-Data-Structures-and-Algorithms-using-Python](https://github.com/Hamza-Shahid555/-Data-Structures-and-Algorithms-using-Python) | A comprehensive collection of Data Structures and Algorithms (DSA) implemented in Python with clean code, explanations, and coding practice problems. | — | 0 | 2026-08-06 |
