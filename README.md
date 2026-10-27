@@ -301,7 +301,7 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-10-25 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-10-26 |
 | [ML_project](https://github.com/Hamza-Shahid555/ML_project) | — | Python | 0 | 2026-10-24 |
 | [A-To-Z-PyTorch](https://github.com/Hamza-Shahid555/A-To-Z-PyTorch) | For ML DL and for LLM as well as for GenAI we must required  PyTorch so in this repository we will go deepdown in  PyTorch library a to z | Jupyter Notebook | 1 | 2026-10-24 |
 | [freight-rate-prediction](https://github.com/Hamza-Shahid555/freight-rate-prediction) | freight-rate-prediction | Python | 0 | 2026-10-20 |
