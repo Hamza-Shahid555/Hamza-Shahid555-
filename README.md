@@ -301,7 +301,7 @@ DeepLearning.AI Specialization assignments — backprop, optimization, NN math f
 <!-- PROJECTS-START -->
 | Project | Description | Language | ⭐ Stars | Last Updated |
 |---|---|---|---|---|
-| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-11-10 |
+| [Hamza-Shahid555-](https://github.com/Hamza-Shahid555/Hamza-Shahid555-) | — | JavaScript | 0 | 2026-11-11 |
 | [nova-mcp-assistant.](https://github.com/Hamza-Shahid555/nova-mcp-assistant.) | AI productivity assistant that manages tasks, notes and documents through 3 MCP servers. Built with the official MCP Python SDK, Claude API tool calling, Streamlit dashboard, SQLite and Pydantic. | Python | 0 | 2026-11-09 |
 | [MCP_AS_AI_ENGINEER](https://github.com/Hamza-Shahid555/MCP_AS_AI_ENGINEER) | MCP is an open standard that connects AI models to external tools, databases, APIs, and services, enabling AI applications to access data and perform tasks efficiently | — | 0 | 2026-10-27 |
 | [ML_project](https://github.com/Hamza-Shahid555/ML_project) | — | Python | 0 | 2026-10-24 |
